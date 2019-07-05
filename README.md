@@ -1,8 +1,9 @@
 Neural Network
 ==============
 
-<a href="http://nxxcxx.github.io/Neural-Network/" target="_blank">Demo</a>
-<br/>
-Cinema4D + three.js
-<br/>
+<a href="" target="_blank">Demo</a>
+
 ![](https://raw.githubusercontent.com/nxxcxx/Neural-Network/gh-pages/screenshot.jpg)
+
+# Original work
+https://github.com/nxxcxx/Neural-Network
